@@ -1,0 +1,18 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 1 Nov, 2023, 12:02:34 AM
+    Author     : sanmesh
+*/
+
+
+.ad .card {
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+.ad .card:hover {
+    background: #e2e2e2;
+}

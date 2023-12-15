@@ -1,0 +1,28 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 30 Oct, 2023, 4:22:51 PM
+    Author     : sanmesh
+*/
+
+.custom-bg {
+    background: #536dfe!important;
+}
+
+
+
+.list-group-item.active {
+    background: blueviolet;
+    border-color: blueviolet; 
+}
+
+
+.discount-label {
+    font-size: 10px!important;
+}
+
+.text-white {
+    color: white;
+}
